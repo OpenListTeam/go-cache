@@ -1,15 +1,15 @@
 # go-cache
- 
+
 Modified from <https://github.com/fanjindong/go-cache> with Generics in Go 1.18+.
 
 ## Install
 
-`go get -u github.com/Xhofe/go-cache`
+`go get -u github.com/OpenListTeam/go-cache`
 
 ## Basic Usage
 
 ```go
-import "github.com/Xhofe/go-cache"
+import "github.com/OpenListTeam/go-cache"
 
 func main() {
     c := cache.NewMemCache[int]()

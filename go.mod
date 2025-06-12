@@ -1,3 +1,3 @@
-module github.com/Xhofe/go-cache
+module github.com/OpenListTeam/go-cache
 
 go 1.18
